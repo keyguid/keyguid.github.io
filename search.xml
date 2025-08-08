@@ -8,7 +8,7 @@
       <link href="/post/2025080412.html"/>
       <url>/post/2025080412.html</url>
       
-        <content type="html"><![CDATA[<p>​    先占个坑，还没空施工呢</p>]]></content>
+        <content type="html"><![CDATA[<p>​    先占个坑，还没空施工呢</p>        <div id="aplayer-ElnzMpMx" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-ElnzMpMx"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "1",              author: "222",              url: "/PAGE/song/Love Is Gone.mp3",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>]]></content>
       
       
       
